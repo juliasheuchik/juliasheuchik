@@ -8,8 +8,6 @@
 
 I'm Julia. I'm looking for a job as a QA Engineer. Proficient with Postman, SQL basics, DevTools, Jira, Charles Proxy and ect. I will be useful thanks to my critical thinking, attention to detail, hard work, and experience of testing mobile and web applications.
 
-- 📫 How to contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:julia.sheuchik@gmail.com)
-
 ---
 
 ### 🤝 Social networks:
@@ -21,11 +19,12 @@ I'm Julia. I'm looking for a job as a QA Engineer. Proficient with Postman, SQL 
     <a href="https://t.me/inetmoegoimeni" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
+    <a href= "mailto:julia.sheuchik@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="30" height="30" alt="gmail"/></a>
   </div>
 
 ---
 
-<h3><a href="file:///Users/yulyashevchik/Downloads/Shevchik_CV_QA_Engineer.pdf" target="_blank">My CV </a></h3>
+<h3><a href="https://docs.google.com/document/d/1hGlFAKUgZr6cUhCFNFgRvSSOLxbn6R6bwN8W9CpaWbg/edit?usp=sharing" target="_blank">My CV </a></h3>
 
 ---
 
