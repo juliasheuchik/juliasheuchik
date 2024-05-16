@@ -1,4 +1,5 @@
 <img src="https://private-user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM2MDI5NjcsIm5iZiI6MTcwMzYwMjY2NywicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzEtNDAzYWY2Y2MtMzJmZC00MDI2LThmYjUtYWU1MjNiZjg5OWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI2VDE0NTc0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3ODcxMGZkMjAyMTg0OWQwOTM0M2MxNTA3NTYyZTBmODNmOWFjNzU1NjY1MjQxZjkxM2FiYThiMzZhNTA2NDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.FuvWMY0goe_EBLzBssPcjxksK1Ff18eNntVcCYlGyk8" title="logo" alt="logo" width="500" height="300"/>
+
 ### Hi!
 
 <img align="left" src="https://orhun.dev/img/crow.png">
@@ -24,6 +25,9 @@ I'm Julia. I'm looking for a job as a QA Engineer. Proficient with Postman, SQL 
 
 ---
 
+<h3><a href="file:///Users/yulyashevchik/Downloads/Shevchik_CV_QA_Engineer.pdf" target="_blank">My CV </a></h3>
+
+---
 
 <h2>Some Tools I Use</h2>
 <p align="center">
