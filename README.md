@@ -54,5 +54,3 @@ I'm Julia. I'm looking for a job as a QA Engineer. Proficient with Postman, SQL 
 | [vadinksendzov.com](https://ksendzov.com/)/ "Manual Functional testing"              | 10/2023 - 03/2024 |
 
 <hr>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
